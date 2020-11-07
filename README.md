@@ -1,2 +1,2 @@
 # python001
-testmd
+这是为爱好python的兴趣者提供的一份免费开源的教程
